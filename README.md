@@ -1,5 +1,48 @@
-<h1>Fivem-status-bot</h1>                                                      
+# Fivem Status Bot
 
-Use this fivem status bot for all your needs for monitoring your fivem server you may also modify some codes and make it work like a automation for monitoring your fivem server 24/7.
+![GitHub](https://img.shields.io/github/license/YourGitHubUsername/Fivem-status-bot)
+![GitHub issues](https://img.shields.io/github/issues/YourGitHubUsername/Fivem-status-bot)
+![GitHub forks](https://img.shields.io/github/forks/YourGitHubUsername/Fivem-status-bot)
+![GitHub stars](https://img.shields.io/github/stars/YourGitHubUsername/Fivem-status-bot)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/YourGitHubUsername/Fivem-status-bot)
 
-A really very usefull Fivem server status bot made using python3, Equipped with lots of required features.
+A Discord bot for monitoring the status of your FiveM servers and providing various utility commands.
+
+## Table of Contents
+
+- [Introduction](#introduction)
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Installation](#installation)
+- [Configuration](#configuration)
+- [Usage](#usage)
+- [Commands](#commands)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+
+[Fivem-status-bot](https://github.com/YourGitHubUsername/Fivem-status-bot) is a Discord bot designed to keep you informed about the status of your FiveM servers. It also includes utility commands for managing your Discord server. The bot is built using Python and the Discord API.
+
+## Features
+
+- Real-time monitoring of your FiveM servers.
+- Notifications on server status changes.
+- Utility commands for managing your Discord server.
+- Customizable server status messages.
+- Easy-to-use Discord bot commands.
+
+## Prerequisites
+
+Before setting up and running the bot, make sure you have the following:
+
+- [Python](https://www.python.org/) installed on your server.
+- A Discord bot token. You can create one through the [Discord Developer Portal](https://discord.com/developers/applications).
+- The necessary Python packages (`discord`, `asyncio`, `requests`) installed.
+
+## Installation
+
+1. Clone this repository:
+
+   ```bash
+   git clone https://github.com/YourGitHubUsername/Fivem-status-bot.git
