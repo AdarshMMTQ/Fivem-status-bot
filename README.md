@@ -17,8 +17,6 @@ A Discord bot for monitoring the status of your FiveM servers and providing vari
 - [Configuration](#configuration)
 - [Usage](#usage)
 - [Commands](#commands)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
@@ -88,9 +86,5 @@ Commands
 Please make sure your Discord bot has the necessary permissions to execute these commands.
 
 
-
-## Installation
-
-## Installation
 
 
