@@ -46,3 +46,49 @@ Before setting up and running the bot, make sure you have the following:
 
    ```bash
    git clone https://github.com/YourGitHubUsername/Fivem-status-bot.git
+
+
+## Configuration
+
+1. Navigate to the project directory:
+
+     ```bash
+      cd Fivem-status-bot
+
+2.Install the required Python packages:
+
+     ```bash
+     pip install discord asyncio requests
+
+3.Configure the bot by editing the config class in the main.py file. Provide your Discord bot token, FiveM server IP and port, and Discord server ID.
+
+
+
+## Usage
+
+      ```bash
+      python main.py
+
+   
+
+## Commands
+
+Commands
+
+    -say (or -s) [text]: Make the bot send an embedded message with your specified text.
+    -hsay (or -hs) [text]: Send a hidden message as the bot.
+    -pid [player_id]: Look up a player by their FiveM ID and display their information.
+    -run: Display instructions for starting the FiveM server.
+    -help: Show a list of available bot commands.
+    -players: List online players on the FiveM server.
+    -ip [ip_address]: Look up information about an IP address using the IP-API.
+
+Please make sure your Discord bot has the necessary permissions to execute these commands.
+
+
+
+## Installation
+
+## Installation
+
+
