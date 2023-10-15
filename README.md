@@ -52,13 +52,15 @@ Before setting up and running the bot, make sure you have the following:
 
 1. Navigate to the project directory:
 
-     ```bash
-      cd Fivem-status-bot
+   ```bash
+   cd Fivem-status-bot
+   ```
 
 2.Install the required Python packages:
 
-     ```bash
-     pip install discord asyncio requests
+   ```bash
+   pip install discord asyncio requests
+   ```
 
 3.Configure the bot by editing the config class in the main.py file. Provide your Discord bot token, FiveM server IP and port, and Discord server ID.
 
@@ -66,9 +68,9 @@ Before setting up and running the bot, make sure you have the following:
 
 ## Usage
 
-      ```bash
-      python main.py
-
+   ```bash
+   python main.py
+   ```
    
 
 ## Commands
