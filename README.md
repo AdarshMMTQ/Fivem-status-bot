@@ -20,7 +20,7 @@ A Discord bot for monitoring the status of your FiveM servers and providing vari
 
 ## Introduction
 
-[Fivem-status-bot](https://github.com/YourGitHubUsername/Fivem-status-bot) is a Discord bot designed to keep you informed about the status of your FiveM servers. It also includes utility commands for managing your Discord server. The bot is built using Python and the Discord API.
+[Fivem-status-bot](https://github.com/AdarshSudo/Fivem-status-bot) is a Discord bot designed to keep you informed about the status of your FiveM servers. It also includes utility commands for managing your Discord server. The bot is built using Python and the Discord API.
 
 ## Features
 
