@@ -1,10 +1,10 @@
 # Fivem Status Bot
 
-![GitHub](https://img.shields.io/github/license/YourGitHubUsername/Fivem-status-bot)
-![GitHub issues](https://img.shields.io/github/issues/YourGitHubUsername/Fivem-status-bot)
-![GitHub forks](https://img.shields.io/github/forks/YourGitHubUsername/Fivem-status-bot)
-![GitHub stars](https://img.shields.io/github/stars/YourGitHubUsername/Fivem-status-bot)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/YourGitHubUsername/Fivem-status-bot)
+![GitHub](https://img.shields.io/github/license/AdarshSudo/Fivem-status-bot)
+![GitHub issues](https://img.shields.io/github/issues/AdarshSudo/Fivem-status-bot)
+![GitHub forks](https://img.shields.io/github/forks/AdarshSudo/Fivem-status-bot)
+![GitHub stars](https://img.shields.io/github/stars/AdarshSudo/Fivem-status-bot)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/AdarshSudo/Fivem-status-bot)
 
 A Discord bot for monitoring the status of your FiveM servers and providing various utility commands.
 
